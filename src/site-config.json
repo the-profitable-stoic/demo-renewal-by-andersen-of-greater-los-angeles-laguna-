@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Renewal by Andersen of Greater Los Angeles - Laguna Hills",
+    "phone": "+19492657600",
+    "category": "window replacement company",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach Window Replacement Experts",
+      "heroSubline": "Premium window solutions designed for Southern California homes. Energy-efficient, durable, and expertly installed by Renewal by Andersen.",
+      "aboutTitle": "Renewal by Andersen: Crafted for Long Beach Living",
+      "aboutText": [
+        "Renewal by Andersen of Greater Los Angeles - Laguna Hills started with a simple mission: to provide Long Beach homeowners with superior window replacement services built for the local environment. We understand the unique challenges our coastal climate poses, from intense sun exposure to the occasional Santa Ana winds. That's why we've dedicated ourselves to offering durable, energy-efficient windows designed to withstand the test of time.",
+        "Our approach is rooted in quality craftsmanship and personalized service. We don't believe in one-size-fits-all solutions. Our team takes the time to assess your specific needs, considering everything from your home's architectural style to your energy efficiency goals. We then tailor a window replacement plan that maximizes both performance and aesthetic appeal.",
+        "As a local business, we are deeply committed to the Long Beach community. We strive to minimize our environmental impact through responsible disposal and recycling practices. We also actively support local initiatives aimed at preserving our city's unique character and enhancing the quality of life for all residents."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Long Beach homes and climate, offering tailored window solutions."
+        },
+        {
+          "title": "Superior Durability",
+          "description": "Our windows are built to withstand intense sun, salty air, and seismic activity."
+        },
+        {
+          "title": "Energy Efficiency",
+          "description": "Reduce energy bills and improve comfort with our energy-efficient window options."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Expert installers ensure a perfect fit and lasting performance for your new windows."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Long Beach Home Today",
+      "ctaSubline": "Schedule a free consultation and discover the Renewal by Andersen difference."
+    },
+    "services": [
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Enhance your home with expertly installed, energy-efficient replacement windows.",
+        "description": "We specialize in window replacement services tailored to Long Beach's diverse housing styles, from classic Craftsman bungalows in Belmont Shore to modern waterfront condos. Our process begins with a comprehensive assessment of your existing windows and a discussion of your specific needs and aesthetic preferences. We offer a wide selection of window styles, materials, and finishes to complement your home's unique character. Our certified installers ensure a precise fit and seamless integration, minimizing disruption to your daily life. We handle everything from removing your old windows to properly disposing of them, leaving you with a beautiful, energy-efficient upgrade that will last for years to come. Given Long Beach's climate, we emphasize windows with Low-E glass coatings and airtight seals to maximize energy savings and reduce noise pollution from nearby freeways and airports. We also offer impact-resistant glass options for enhanced security and storm protection. Our team understands the importance of preserving the architectural integrity of older homes, and we take great care to match existing window styles and details.",
+        "process": [
+          "Step 1: In-home consultation and window assessment",
+          "Step 2: Custom window design and material selection",
+          "Step 3: Precise measurements and fabrication",
+          "Step 4: Professional installation and cleanup"
+        ],
+        "benefits": [
+          "Improved energy efficiency and lower utility bills",
+          "Enhanced home comfort and reduced noise pollution",
+          "Increased home value and curb appeal",
+          "Protection from UV damage and fading"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "The duration of a window replacement project depends on the number of windows being replaced and the complexity of the installation. Most projects can be completed in one to two days."
+          },
+          {
+            "question": "What types of windows do you offer?",
+            "answer": "We offer a wide variety of window styles, including double-hung, casement, awning, sliding, picture, and specialty windows. We also offer a range of materials, including Fibrex® composite, wood, and vinyl."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to help make your window replacement project more affordable. Contact us to learn more about our financing programs."
+          }
+        ]
+      },
+      {
+        "slug": "bay-bow-windows",
+        "name": "Bay & Bow Windows",
+        "shortDescription": "Add architectural interest and expanded views with custom bay and bow windows.",
+        "description": "Bay and bow windows are an excellent way to enhance the architectural appeal of your Long Beach home while creating a brighter, more spacious interior. Bay windows typically consist of three windows angled outward, while bow windows feature four or more windows arranged in a gentle curve. We custom-design each bay and bow window to perfectly complement your home's style and dimensions. Our expert installers ensure a seamless fit and weather-tight seal, preventing drafts and water damage. Given the coastal location, we use high-quality, corrosion-resistant materials that withstand salty air and moisture. We also offer options for adding a built-in seat or storage area beneath the window, maximizing functionality and comfort. Bay and bow windows are particularly popular in Long Beach's older neighborhoods like Belmont Shore and Naples, where they add a touch of elegance and charm to classic Craftsman and Spanish Colonial homes. We can also incorporate energy-efficient glass options to minimize heat gain during the summer months and reduce energy costs. Our team handles all aspects of the project, from initial design consultation to final installation and cleanup.",
+        "process": [
+          "Step 1: Design consultation and structural assessment",
+          "Step 2: Custom window fabrication and material selection",
+          "Step 3: Precise installation and weatherproofing",
+          "Step 4: Interior finishing and trim work"
+        ],
+        "benefits": [
+          "Increased natural light and panoramic views",
+          "Enhanced architectural appeal and home value",
+          "Expanded living space and added functionality",
+          "Improved energy efficiency and comfort"
+        ],
+        "faq": [
+          {
+            "question": "Are bay and bow windows energy-efficient?",
+            "answer": "Yes, we offer energy-efficient glass options for bay and bow windows that can help reduce heat gain in the summer and heat loss in the winter."
+          },
+          {
+            "question": "Do I need a permit to install a bay or bow window?",
+            "answer": "In most cases, a building permit is required for bay and bow window installations. We can assist you with the permit application process."
+          },
+          {
+            "question": "How long does it take to install a bay or bow window?",
+            "answer": "The installation time for bay and bow windows varies depending on the complexity of the project, but it typically takes one to three days."
+          }
+        ]
+      },
+      {
+        "slug": "casement-windows",
+        "name": "Casement Windows",
+        "shortDescription": "Maximize ventilation and enjoy unobstructed views with elegant casement windows.",
+        "description": "Casement windows, hinged on one side and cranked outward, offer excellent ventilation and a clean, modern look for Long Beach homes. Their tight seal provides superior energy efficiency, crucial for our warm climate. We offer a variety of styles and finishes to complement any architectural design, from the sleek lines of contemporary condos near the waterfront to the classic charm of Craftsman homes in Bixby Knolls. Our installation process ensures a perfect fit, preventing drafts and leaks. We use durable, weather-resistant materials that can withstand the coastal environment. Casement windows are a great choice for areas where you want to maximize airflow and enjoy unobstructed views of the Pacific Ocean or the city skyline. We can also customize your casement windows with features like insect screens and decorative grids to enhance their functionality and aesthetic appeal. Our team will work closely with you to select the right casement windows for your needs and ensure a seamless installation process.",
+        "process": [
+          "Step 1: Consultation to determine the best casement window style and size",
+          "Step 2: Precise measurements to ensure a perfect fit",
+          "Step 3: Professional installation by certified technicians",
+          "Step 4: Quality inspection and cleanup"
+        ],
+        "benefits": [
+          "Excellent ventilation and airflow",
+          "Unobstructed views",
+          "Enhanced energy efficiency",
+          "Modern and elegant design"
+        ],
+        "faq": [
+          {
+            "question": "Are casement windows more energy-efficient than other types of windows?",
+            "answer": "Yes, casement windows generally offer superior energy efficiency due to their tight seal when closed."
+          },
+          {
+            "question": "Can casement windows be installed in any room?",
+            "answer": "Yes, casement windows can be installed in any room, but they are particularly well-suited for kitchens, bathrooms, and bedrooms."
+          },
+          {
+            "question": "What is the difference between a casement window and an awning window?",
+            "answer": "Casement windows are hinged on the side and crank outward, while awning windows are hinged at the top and swing outward."
+          }
+        ]
+      },
+      {
+        "slug": "double-hung-windows",
+        "name": "Double-Hung Windows",
+        "shortDescription": "Classic and versatile double-hung windows for traditional and modern homes.",
+        "description": "Double-hung windows, with their two operable sashes, are a timeless and versatile choice for Long Beach homeowners. They offer excellent ventilation control and are easy to clean from the inside. We offer a wide range of styles and materials to complement any architectural design, from traditional wood frames to low-maintenance Fibrex® composite. Our expert installers ensure a precise fit and proper operation, preventing drafts and leaks. Double-hung windows are a popular choice for older homes in neighborhoods like Belmont Heights and Bluff Park, where they maintain the classic aesthetic while providing modern performance. They are also a practical choice for apartments and condos, where space is limited, and easy cleaning is essential. We can customize your double-hung windows with features like energy-efficient glass, decorative grids, and child-safety locks to enhance their functionality and safety. Our team will guide you through the selection process and ensure a seamless installation experience.",
+        "process": [
+          "Step 1: In-home consultation and window assessment",
+          "Step 2: Custom window design and material selection",
+          "Step 3: Precise measurements and fabrication",
+          "Step 4: Professional installation and cleanup"
+        ],
+        "benefits": [
+          "Classic and versatile design",
+          "Excellent ventilation control",
+          "Easy to clean from the inside",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of double-hung windows?",
+            "answer": "Double-hung windows offer excellent ventilation control, are easy to clean, and are a versatile choice for any home style."
+          },
+          {
+            "question": "Are double-hung windows energy-efficient?",
+            "answer": "Yes, we offer energy-efficient glass options for double-hung windows that can help reduce energy costs."
+          },
+          {
+            "question": "How do I clean double-hung windows?",
+            "answer": "Double-hung windows can be easily cleaned from the inside by tilting the sashes inward."
+          }
+        ]
+      },
+      {
+        "slug": "sliding-windows",
+        "name": "Sliding Windows",
+        "shortDescription": "Space-saving and easy-to-operate sliding windows for modern living.",
+        "description": "Sliding windows, also known as gliding windows, are an excellent choice for Long Beach homes where space is limited. Their horizontal design allows them to open and close smoothly without protruding into the room. They are a popular choice for bedrooms, kitchens, and living rooms. We offer a variety of styles and materials to complement your home's architecture, from sleek aluminum frames to durable vinyl options. Our expert installers ensure a precise fit and smooth operation, preventing drafts and leaks. Sliding windows are particularly well-suited for mid-century modern homes and apartments in neighborhoods like Alamitos Beach and Downtown Long Beach. They offer a clean, contemporary look and are easy to operate with one hand. We can customize your sliding windows with features like energy-efficient glass, insect screens, and security locks to enhance their functionality and security. Our team will work with you to select the right sliding windows for your needs and ensure a hassle-free installation.",
+        "process": [
+          "Step 1: Consultation to determine the best sliding window style and size",
+          "Step 2: Precise measurements to ensure a perfect fit",
+          "Step 3: Professional installation by certified technicians",
+          "Step 4: Quality inspection and cleanup"
+        ],
+        "benefits": [
+          "Space-saving design",
+          "Easy to operate",
+          "Modern and clean look",
+          "Improved ventilation"
+        ],
+        "faq": [
+          {
+            "question": "Are sliding windows energy-efficient?",
+            "answer": "Yes, we offer energy-efficient glass options for sliding windows that can help reduce energy costs."
+          },
+          {
+            "question": "Are sliding windows easy to clean?",
+            "answer": "Yes, sliding windows are easy to clean from both the inside and outside."
+          },
+          {
+            "question": "Where are sliding windows commonly used?",
+            "answer": "Sliding windows are commonly used in bedrooms, kitchens, and living rooms."
+          }
+        ]
+      },
+      {
+        "slug": "picture-windows",
+        "name": "Picture Windows",
+        "shortDescription": "Maximize natural light and enjoy expansive views with stunning picture windows.",
+        "description": "Picture windows, designed to offer unobstructed views and maximize natural light, are a stunning addition to any Long Beach home. These stationary windows are ideal for showcasing scenic landscapes, cityscapes, or garden views. We offer a variety of shapes and sizes to create a dramatic focal point in your living room, dining room, or bedroom. Our expert installers ensure a precise fit and airtight seal, preventing drafts and leaks. Picture windows are particularly popular in homes with ocean views or overlooking the city skyline. They are also a great choice for maximizing natural light in dark or interior spaces. We use high-quality, energy-efficient glass to minimize heat gain and UV damage, keeping your home comfortable and protected. Our team will work with you to select the perfect picture windows for your needs and ensure a seamless installation process.",
+        "process": [
+          "Step 1: Consultation to determine the best picture window size and placement",
+          "Step 2: Precise measurements to ensure a perfect fit",
+          "Step 3: Professional installation by certified technicians",
+          "Step 4: Quality inspection and cleanup"
+        ],
+        "benefits": [
+          "Unobstructed views",
+          "Maximum natural light",
+          "Enhanced aesthetic appeal",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "Are picture windows energy-efficient?",
+            "answer": "Yes, we offer energy-efficient glass options for picture windows that can help reduce heat gain and UV damage."
+          },
+          {
+            "question": "Can picture windows be combined with other window styles?",
+            "answer": "Yes, picture windows can be combined with other window styles, such as casement or awning windows, to create a custom window design."
+          },
+          {
+            "question": "Where are picture windows commonly used?",
+            "answer": "Picture windows are commonly used in living rooms, dining rooms, and bedrooms to showcase scenic views."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills is proud to offer window replacement services to homeowners throughout Los Angeles, California. From the Hollywood Hills to downtown LA, we understand the diverse architectural styles that define this iconic city. Many homes in Los Angeles feature beautiful 1920s Spanish Colonial Revival architecture, and our windows are designed to complement these classic designs while providing modern energy efficiency and performance. \n\nWe know that Los Angeles' warm, dry climate demands windows that can withstand intense sunlight and heat. Renewal by Andersen windows are engineered with advanced materials to resist fading, warping, and cracking, ensuring lasting beauty and performance for years to come. Whether you're looking to enhance the curb appeal of your historic home or improve the energy efficiency of your modern condo, we have the perfect window solutions for your needs.",
+        "localContext": "Los Angeles is known for its diverse architecture, including numerous Spanish Colonial Revival homes, and its warm, dry climate year-round.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills provides top-quality window replacement services to Pasadena residents. Pasadena is renowned for its beautiful historic homes, particularly the charming Craftsman bungalows built between the 1910s and 1930s. We understand the importance of preserving the architectural integrity of these homes while improving their energy efficiency and comfort.\n\nOur window replacement options are tailored to complement Pasadena's unique architectural styles. We offer a wide selection of window styles, colors, and hardware options to match the original character of your home. With Pasadena's warm, dry climate in mind, our windows are designed to provide superior insulation and UV protection, helping to keep your home comfortable and energy-efficient year-round.",
+        "localContext": "Pasadena is famous for its 1910s-30s Craftsman bungalows and experiences a warm, dry climate throughout the year.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills is dedicated to serving the window replacement needs of homeowners in Irvine, California. As a master-planned community, Irvine features a diverse range of homes built from the 1970s to the present day. Whether you have a contemporary condo or a spacious family home, we have the perfect window solutions to enhance your property's beauty, comfort, and value.\n\nWe understand the importance of energy efficiency in Irvine's warm, dry climate. Our windows are designed with advanced insulation technology to minimize heat transfer, helping you save money on your energy bills while keeping your home comfortable year-round. We offer a wide range of styles and colors to complement the modern aesthetic of Irvine's homes.",
+        "localContext": "Irvine is a master-planned community with homes built from the 1970s-present and features a warm, dry climate.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills offers expert window replacement services to homeowners in Santa Clarita, California. Known for its newer master-planned communities built between the 1990s and 2020s, Santa Clarita boasts a variety of modern home styles. We tailor our window solutions to meet the specific needs and preferences of Santa Clarita residents.\n\nGiven Santa Clarita's warm, dry climate, our windows are engineered for optimal energy efficiency and durability. We offer a wide range of window styles, materials, and colors to complement the contemporary architecture of Santa Clarita homes. From energy-efficient glass options to durable frames, we provide solutions that enhance your home's comfort, beauty, and value.",
+        "localContext": "Santa Clarita is characterized by newer master-planned communities from the 1990s-2020s and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Stevenson Ranch",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills proudly serves the window replacement needs of homeowners in Torrance, California. Torrance is known for its charming 1950s-60s post-war homes, and we understand the unique architectural characteristics of these properties. Our window solutions are designed to enhance the beauty and energy efficiency of Torrance homes while preserving their original character.\n\nWe recognize the importance of durability and weather resistance in Torrance's coastal climate. Our windows are engineered with high-quality materials to withstand the elements and provide lasting performance. Whether you're looking to replace your existing windows with energy-efficient models or upgrade your home's curb appeal, we have the perfect solutions for your needs.",
+        "localContext": "Torrance is known for its 1950s-60s post-war homes and has a warm, dry climate.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills is delighted to offer window replacement services to the residents of Long Beach, California. Long Beach features a diverse array of architectural styles, from historic Craftsman bungalows to modern beachfront condos. We understand the unique needs of Long Beach homeowners and provide tailored window solutions to enhance their homes' beauty, comfort, and value.\n\nWe are well aware of Long Beach's coastal climate and its impact on homes. Our windows are engineered to withstand the elements, providing superior protection against wind, rain, and sun. With a wide selection of styles, colors, and materials, we can help you find the perfect windows to complement your home's architecture and enhance its curb appeal.",
+        "localContext": "Long Beach boasts diverse architecture and experiences a warm, dry climate influenced by its coastal location.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills provides homeowners in Anaheim, California, with exceptional window replacement services. From charming historic homes to modern developments, Anaheim features a variety of architectural styles. We understand the importance of selecting the right windows to complement your home's unique character and improve its energy efficiency.\n\nAnaheim's warm, dry climate requires windows that can withstand intense sunlight and heat. Our windows are designed with advanced materials to resist fading, warping, and cracking, ensuring lasting beauty and performance. Whether you're looking to enhance your home's curb appeal or improve its energy efficiency, we have the perfect window solutions for your needs.",
+        "localContext": "Anaheim features a mix of historic and modern homes and experiences a warm, dry climate.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills offers window replacement services to homeowners in Huntington Beach, California. Huntington Beach is known for its coastal lifestyle and diverse housing options, from beach bungalows to modern condos. We understand the specific needs of Huntington Beach residents and provide window solutions tailored to their homes and lifestyle.\n\nGiven Huntington Beach's coastal location, our windows are engineered to withstand the elements, including salt air and strong winds. We offer a wide range of styles and materials to complement the architectural diversity of Huntington Beach homes. From energy-efficient glass options to durable frames, we provide solutions that enhance your home's comfort, beauty, and value.",
+        "localContext": "Huntington Beach is a coastal city with diverse housing options and a climate influenced by the ocean.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Laguna Niguel",
+        "slug": "laguna-niguel-ca",
+        "state": "CA",
+        "content": "Renewal by Andersen of Greater Los Angeles - Laguna Hills is dedicated to providing high-quality window replacement services to homeowners in Laguna Niguel, California. Laguna Niguel is known for its beautiful neighborhoods and diverse range of home styles. We understand the importance of selecting the right windows to enhance your home's aesthetic appeal and energy efficiency.\n\nWe understand that Laguna Niguel's mild coastal climate demands windows that are both durable and energy-efficient. Our windows are designed with advanced materials and construction techniques to withstand the elements and provide superior insulation. Whether you're looking to replace your existing windows or upgrade to a more energy-efficient option, we have the perfect solutions for your needs.",
+        "localContext": "Laguna Niguel features beautiful neighborhoods and a mild coastal climate.",
+        "nearbyAreas": [
+          "Laguna Hills",
+          "Dana Point",
+          "San Juan Capistrano"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "We replaced all the windows in our 1930s Craftsman in Belmont Heights. The team was meticulous in preserving the character of the house while upgrading to energy-efficient windows. The difference in noise reduction from Ocean Blvd is incredible!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Casement Window Installation",
+        "text": "The casement windows in our kitchen look fantastic! The installation was quick and professional. We had a minor issue with one window, but they came back promptly and fixed it without any hassle.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 5,
+        "service": "Double-Hung Window Replacement",
+        "text": "We replaced our old, drafty double-hung windows with Renewal by Andersen. The new windows are beautiful and have made a huge difference in our energy bills. The team was courteous and cleaned up everything perfectly.",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Bay Window Installation",
+        "text": "We added a bay window in our living room, and it completely transformed the space! The design team helped us choose the perfect style to match our home, and the installation was flawless. We love the extra light and the expanded view.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Jennifer P.",
+        "rating": 4,
+        "service": "Sliding Window Replacement",
+        "text": "We replaced our old sliding glass door with a Renewal by Andersen sliding window. The new window is much easier to open and close, and it looks great! The only reason I didn't give 5 stars is that the installation took a little longer than expected.",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Picture Window Installation",
+        "text": "We installed a large picture window in our dining room to take advantage of the view of the Pacific. The window is stunning! It's like having a piece of art in our home. The installation team was professional and efficient.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Renewal by Andersen Long Beach: Window Replacement",
+        "description": "Expert window replacement in Long Beach, CA. Energy-efficient windows, professional install. Free consultation!"
+      },
+      "about": {
+        "title": "About Renewal by Andersen Long Beach",
+        "description": "Learn about Renewal by Andersen's commitment to quality window replacement in Long Beach & Southern California."
+      },
+      "services": {
+        "title": "Window Services | Renewal by Andersen Long Beach",
+        "description": "Explore our window replacement services: casement, double-hung, bay, bow, sliding, picture windows. Serving Long Beach."
+      },
+      "contact": {
+        "title": "Contact Renewal by Andersen Long Beach",
+        "description": "Contact Renewal by Andersen for window replacement quotes and inquiries in Long Beach, CA. Call +19492657600"
+      },
+      "reviews": {
+        "title": "Renewal by Andersen Long Beach Reviews",
+        "description": "Read customer reviews for Renewal by Andersen in Long Beach. See why homeowners trust us for window replacement."
+      },
+      "service-areas": {
+        "title": "Service Areas | Renewal by Andersen",
+        "description": "Window replacement services in Los Angeles, Pasadena, Irvine, Santa Clarita, Torrance & Long Beach."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-replacement": "/images/service-window-replacement.webp",
+      "bay-bow-windows": "/images/service-bay-bow-windows.webp",
+      "casement-windows": "/images/service-casement-windows.webp",
+      "double-hung-windows": "/images/service-double-hung-windows.webp",
+      "sliding-windows": "/images/service-sliding-windows.webp",
+      "picture-windows": "/images/service-picture-windows.webp"
+    },
+    "servicesResponsive": {
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bay-bow-windows": {
+        "src": "/images/service-bay-bow-windows.webp",
+        "srcset": "/images/service-bay-bow-windows-400w.webp 400w, /images/service-bay-bow-windows-800w.webp 800w, /images/service-bay-bow-windows-1200w.webp 1200w, /images/service-bay-bow-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "casement-windows": {
+        "src": "/images/service-casement-windows.webp",
+        "srcset": "/images/service-casement-windows-400w.webp 400w, /images/service-casement-windows-800w.webp 800w, /images/service-casement-windows-1200w.webp 1200w, /images/service-casement-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "double-hung-windows": {
+        "src": "/images/service-double-hung-windows.webp",
+        "srcset": "/images/service-double-hung-windows-400w.webp 400w, /images/service-double-hung-windows-800w.webp 800w, /images/service-double-hung-windows-1200w.webp 1200w, /images/service-double-hung-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sliding-windows": {
+        "src": "/images/service-sliding-windows.webp",
+        "srcset": "/images/service-sliding-windows-400w.webp 400w, /images/service-sliding-windows-800w.webp 800w, /images/service-sliding-windows-1200w.webp 1200w, /images/service-sliding-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "picture-windows": {
+        "src": "/images/service-picture-windows.webp",
+        "srcset": "/images/service-picture-windows-400w.webp 400w, /images/service-picture-windows-800w.webp 800w, /images/service-picture-windows-1200w.webp 1200w, /images/service-picture-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

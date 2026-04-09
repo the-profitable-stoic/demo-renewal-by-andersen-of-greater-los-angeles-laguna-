@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-renewal-by-andersen-of-greater-los-angeles-laguna-hills.dream-surge.com/sitemap-index.xml
